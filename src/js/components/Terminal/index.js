@@ -227,7 +227,7 @@ class Terminal extends Component {
     const { activeTab, tabs } = this.state;
     const baseStyle = {
       height: '100%',
-      color: color || 'green',
+      color: color || 'white',
       animation: 'fadeIn 0.18s ease-in',
       fontFamily: "'Inconsolata', monospace",
       fontSize: '0.9em',

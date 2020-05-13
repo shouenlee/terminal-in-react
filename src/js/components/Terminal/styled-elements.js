@@ -12,7 +12,7 @@ export const Base = styled.div`
 const DEFAULT_FONT_STYLE = `
   font-family: 'Inconsolata', monospace;
   font-size: 0.9em;
-  color: green;
+  color: white;
 `;
 
 export const ContainerWrapper = styled.div`
